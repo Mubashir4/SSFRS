@@ -24,3 +24,6 @@ Data References:
 Code References:
 1. https://github.com/HenningBuhl/VQ-VAE_Keras_Implementation
 2. https://github.com/keras-team/keras-io/blob/master/examples/generative/vae.py
+
+
+Version 2, using client and server sockets will be uploaded soon. 
