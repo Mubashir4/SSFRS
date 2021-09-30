@@ -4,7 +4,7 @@ The code consists of three main files and three supporting files:
 1. Main.py
 2. User_Module.py 
     - VQ.py
-    - ⋅VQ-Trainer.py
+    - VQ-Trainer.py
     - utility.py
 3. Cluster.py
 
