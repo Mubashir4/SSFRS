@@ -1,5 +1,5 @@
 # SSFRS
-<<<<<<< HEAD
+
 
 =======
 The code consists of three main files and three supporting files:
@@ -30,4 +30,3 @@ Code References:
 
 
 Version 2, using client and server sockets will be uploaded soon. 
->>>>>>> f00ad6ca93246a40b77f9d6fd86de83dc99b33dc
